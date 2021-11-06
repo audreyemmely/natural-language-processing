@@ -1,5 +1,7 @@
 # Processamento de Linguagem Natural
 
+[Informações gerais do dataset](https://github.com/audreyemmely/pln/blob/main/dataset.ipynb)
+
 [Resolução lista 1](https://github.com/audreyemmely/pln/blob/main/pln_lista1.ipynb)
 
 [Resolução lista 2](https://github.com/audreyemmely/pln/blob/main/pln_lista2.ipynb)
